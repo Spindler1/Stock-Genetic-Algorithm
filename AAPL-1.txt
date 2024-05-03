@@ -2,6 +2,7 @@ AAPL - Apple
 January 2000 - December 2002
 1.00
 0.92
+beans
 0.93
 0.85
 0.89
